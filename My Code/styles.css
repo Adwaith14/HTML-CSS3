@@ -74,7 +74,9 @@ h5 {
   margin-bottom: 10px;
 }
 footer {
+  border-top: 5px solid orange;
   text-align: center;
+  padding: 10px;
 }
 .forflex {
   display: flex;
